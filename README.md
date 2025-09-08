@@ -9,25 +9,26 @@ I’m passionate about automation, cloud-native solutions, and mentoring teams t
 
 ## 🛠️ Tech Stack  
 
-### ☁️ Cloud & Infrastructure  
-![AWS](https://skillicons.dev/icons?i=aws) ![GCP](https://skillicons.dev/icons?i=gcp) ![Azure](https://skillicons.dev/icons?i=azure)  
-AWS | Google Cloud | Microsoft Azure  
-
-### ⚙️ DevOps & Automation  
-![Terraform](https://skillicons.dev/icons?i=terraform) ![Ansible](https://skillicons.dev/icons?i=ansible) ![Bash](https://skillicons.dev/icons?i=bash) ![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?logo=puppet&logoColor=black&style=for-the-badge)  
-Terraform | Ansible | Bash | Puppet  
-
-### 🔄 CI/CD  
-![GitLab](https://skillicons.dev/icons?i=gitlab) ![Github](https://skillicons.dev/icons?i=github) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white&style=for-the-badge)  
-Jenkins | GitLab CI | GitHub Actions | Azure DevOps | ArgoCD  
-
-### 🐳 Containers & Orchestration  
-![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Openshift](https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift&logoColor=white&style=for-the-badge) ![Rancher](https://img.shields.io/badge/Rancher-0075A8?logo=rancher&logoColor=white&style=for-the-badge)  
-Docker | Kubernetes | OpenShift | Rancher  
-
-### 📊 Monitoring & Logging  
-![Prometheus](https://skillicons.dev/icons?i=prometheus) ![Grafana](https://skillicons.dev/icons?i=grafana) ![Elastic](https://skillicons.dev/icons?i=elasticsearch)  
-Prometheus | Grafana | ELK | Jaeger | New Relic | Nagios  
+![Linux](https://skillicons.dev/icons?i=linux) 
+![AWS](https://skillicons.dev/icons?i=aws) 
+![GCP](https://skillicons.dev/icons?i=gcp) 
+![Azure](https://skillicons.dev/icons?i=azure) 
+![Docker](https://skillicons.dev/icons?i=docker) 
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes) 
+![Terraform](https://skillicons.dev/icons?i=terraform) 
+![Ansible](https://skillicons.dev/icons?i=ansible) 
+![Bash](https://skillicons.dev/icons?i=bash) 
+![Git](https://skillicons.dev/icons?i=git) 
+![GitLab](https://skillicons.dev/icons?i=gitlab) 
+![Github](https://skillicons.dev/icons?i=github) 
+![Jenkins](https://skillicons.dev/icons?i=jenkins) 
+![Prometheus](https://skillicons.dev/icons?i=prometheus) 
+![Grafana](https://skillicons.dev/icons?i=grafana) 
+![Elastic](https://skillicons.dev/icons?i=elasticsearch) 
+![Openshift](https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift&logoColor=white&style=for-the-badge) 
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?logo=rancher&logoColor=white&style=for-the-badge) 
+![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?logo=puppet&logoColor=black&style=for-the-badge) 
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FC6D26?logo=argo&logoColor=white&style=for-the-badge) 
 
 ---
 
